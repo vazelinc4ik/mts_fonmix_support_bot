@@ -1,0 +1,7 @@
+alembic
+asyncpg
+pydantic
+pydantic-settings
+sqlalchemy
+jira
+aiogram
